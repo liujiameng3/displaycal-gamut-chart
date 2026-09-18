@@ -1,0 +1,5 @@
+interface:
+  display_name: "DisplayCAL Gamut Chart"
+  short_description: "Calculate gamut metrics and draw matching CIE charts"
+  brand_color: "#0B1B2B"
+  default_prompt: "Use $displaycal-gamut-chart to calculate this DisplayCAL report and generate a matching CIE gamut chart."
